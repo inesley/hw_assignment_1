@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<head>
-	<title>Cookie Recipe</title>
-	<link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-	<a href="images/portfolio.html">To Portfolio</a>
-	<img alt="citypix skyline" src="images/citipix_deliverable.png">
-</body>
